@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   height="800"
+   width="800"
+   id="svg4"
+   sodipodi:docname="Hexagon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.6353503"
+     inkscape:cx="363.53067"
+     inkscape:cy="314"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <polygon
+     points="183,2.230855 543,2.230855 723,314 543,625.76914 183,625.76914 3,314 "
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="4"
+     id="polygon2"
+     transform="matrix(0,0.95611696,-0.95611696,0,700.22072,52.929707)" />
+</svg>
+<!-- 基于 https://commons.wikimedia.org/wiki/File:Hexagon.svg 修改 -->
