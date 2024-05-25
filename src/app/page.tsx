@@ -87,13 +87,13 @@ export default function Home() {
             <img
               alt="geo-yuheng logo"
               className="h-12"
-              height="50"
-              src="/placeholder.svg"
+              height="128"
+              src="/geo-yuheng-logo-v1.svg"
               style={{
-                aspectRatio: "86/50",
+                aspectRatio: "128/128",
                 objectFit: "cover",
               }}
-              width="86"
+              width="128"
             />
           </Link>
           <div className="flex items-center gap-4 sm:gap-6">
@@ -104,9 +104,9 @@ export default function Home() {
                 placeholder="Search docs..."
                 type="search"
               />
-              <Button className="absolute right-2 top-2 rounded-full" size="icon" variant="ghost">
+            <Button className="absolute right-2 top-2 rounded-full" size="icon" variant="ghost">
                 <PlaneIcon className="h-4 w-4 text-gray-500 dark:text-gray-400" />
-              </Button>
+            </Button>
             </div>
             <div className="hidden sm:block">
               <nav className="flex items-center gap-4 sm:gap-6">
@@ -150,26 +150,26 @@ export default function Home() {
             <img
               alt="geo-yuheng logo"
               className="h-24"
-              height="100"
-              src="/placeholder.svg"
+              height="255"
+              src="/geo-yuheng-logo-v1.svg"
               style={{
-                aspectRatio: "173/100",
+                aspectRatio: "255/255",
                 objectFit: "cover",
               }}
-              width="173"
+              width="255"
             />
           </div>
           <div className="text-left lg:text-right">
             <h1 className="text-4xl font-bold dark:text-gray-50">geo-yuheng</h1>
             <p className="text-lg text-gray-500 dark:text-gray-400">
-              A library maintained by OSMChina for manipulating OSM data easily.
+              A Python library maintained by OSMChina for manipulating OSM data easily.
             </p>
             <div className="relative group mt-6">
               <input
                 className="w-64 px-4 py-2 border border-gray-200 rounded-md text-sm leading-6 text-gray-700 border-gray-300 bg-white shadow-sm focus:outline-none focus:ring-1 focus:ring-gray-500 focus:border-gray-500 dark:bg-gray-900 dark:text-gray-50 dark:border-gray-800 dark:focus:ring-gray-500 dark:focus:border-gray-500 dark:border-gray-800"
                 readOnly
                 type="text"
-                value="npm install geo-yuheng"
+                value="pip install yuheng [暂未上线]"
               />
               <Button className="absolute right-0 top-0 rounded-full" size="icon" variant="ghost">
                 <ClipboardIcon className="h-4 w-4 text-gray-500 dark:text-gray-400" />
